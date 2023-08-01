@@ -3,6 +3,7 @@
 
 
 ## Text To Speech Preprocessing
+- z
 - [ParsiNorm](https://github.com/haraai/ParsiNorm) - Persain Text Pre-Proceesing Tool
 - [Persian Tools](https://github.com/persian-tools/py-persian-tools) - An anthology of a variety of tools for the Persian language in Python
 
