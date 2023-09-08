@@ -1,6 +1,6 @@
 # test2 
 
-# Open source (at least with a reasonably permissive license)
+# Sample Title
 * one, [ageitgey/face_recognition](https://github.com/ageitgey) - The gggggggggg [plotly/plotly](https://github.com/plotly/plotly)
 * [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanie is an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks imitating much of an virtual assistant's work.
 * hhhhhhhhhhhhhhhhhhh
