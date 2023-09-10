@@ -5,7 +5,7 @@
 Contents
 
 - [Sample Title](#sample-title)
-- [sample title 2](#sample-title-2)
+- [Title 2](#title-2)
 - [Title 3](#title-3)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
