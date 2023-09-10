@@ -6,6 +6,7 @@ Contents
 
 - [Sample Title](#sample-title)
 - [sample title 2](#sample-title-2)
+- [Title 3](#title-3)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -19,9 +20,11 @@ Contents
 * [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform.
 
 
-## sample title 2
+## Title 2
 * [plotly/plotly](https://github.com/plotly/plotly) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 * [plotly/plotly](https://github.com/plotly/plotly) - one, [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world
+
+## Title 3
 * The aaaaaaa [plotly/plotly](https://github.com/plotly/plotly)  one, [ageitgey/face_recognition](https://github.com/ageitgey)
 * [test](https://github.com/donnemartin/system-design-primer)
 * [ddd](https://github.com/pallets/flask)
