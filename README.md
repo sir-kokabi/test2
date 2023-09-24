@@ -1,14 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-Contents
-
-- [test2](#test2)
-  - [Sample Title](#sample-title)
-  - [Title 2](#title-2)
-  - [Title 3](#title-3)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # test2
 
 **This GitHub repository is just for testing purpose.**
