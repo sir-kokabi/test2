@@ -2,16 +2,6 @@
 
 **This GitHub repository is just for testing purpose.**
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-Contents
-
-- [Sample Title](#sample-title)
-- [Title 2](#title-2)
-- [Title 3](#title-3)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Sample Title
 * one, [ageitgey/face_recognition](https://github.com/ageitgey) - The gggggggggg [plotly/plotly](https://github.com/plotly/plotly)
   - [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanie is an open-source platform built specifically for voice-controlled applications
