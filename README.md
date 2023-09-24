@@ -14,8 +14,8 @@ Contents
 
 ## Sample Title
 * one, [ageitgey/face_recognition](https://github.com/ageitgey) - The gggggggggg [plotly/plotly](https://github.com/plotly/plotly)
-* [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanie is an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks imitating much of an virtual assistant's work.
-* hhhhhhhhhhhhhhhhhhh
+  - [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanie is an open-source platform built specifically for voice-controlled applications
+  - hhhhhhhhhhhhhhhhhhh
 
 ### subtitle 1
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
