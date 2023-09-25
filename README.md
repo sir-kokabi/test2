@@ -13,7 +13,7 @@ aaaa
   - [ddd](https://github.com/pallets/flask)
 * [ddd](https://github.com/pallets/flask)
 
-<!---
+
 ### subtitle 1
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 * [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform.
@@ -27,4 +27,4 @@ aaaa
 * The aaaaaaa [plotly/plotly](https://github.com/plotly/plotly)  one, [ageitgey/face_recognition](https://github.com/ageitgey)
 * [test](https://github.com/donnemartin/system-design-primer)
 * [ddd](https://github.com/pallets/flask)
--->
+
